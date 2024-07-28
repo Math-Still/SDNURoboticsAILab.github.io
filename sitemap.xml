@@ -8,11 +8,95 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
     </url>
     <url>
-        <loc>Noneawards/awards/</loc>
+        <loc>Noneawards/CRAIC-2023/</loc>
         <lastmod>2024-07-28</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneawards/awards/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/awards/awards/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneawards/CRAIC-2023/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/awards/CRAIC-2023/"/>
+    </url>
+    <url>
+        <loc>Noneawards/CRAIC-2024/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneawards/CRAIC-2024/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/awards/CRAIC-2024/"/>
+    </url>
+    <url>
+        <loc>Noneawards/CRAIC/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneawards/CRAIC/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/awards/CRAIC/"/>
+    </url>
+    <url>
+        <loc>Noneawards/IYAIC-2023/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneawards/IYAIC-2023/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/awards/IYAIC-2023/"/>
+    </url>
+    <url>
+        <loc>Noneawards/IYAIC/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneawards/IYAIC/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/awards/IYAIC/"/>
+    </url>
+    <url>
+        <loc>Noneawards/RoboCup-China-Open-2024/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneawards/RoboCup-China-Open-2024/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/awards/RoboCup-China-Open-2024/"/>
+    </url>
+    <url>
+        <loc>Noneawards/RoboCup-China-Open/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneawards/RoboCup-China-Open/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/awards/RoboCup-China-Open/"/>
+    </url>
+    <url>
+        <loc>Noneawards/Robocode-2023/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneawards/Robocode-2023/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/awards/Robocode-2023/"/>
+    </url>
+    <url>
+        <loc>Noneawards/Robocode/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneawards/Robocode/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/awards/Robocode/"/>
+    </url>
+    <url>
+        <loc>Noneawards/Robotics-Innovation-Camp-by-CYL-2023/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneawards/Robotics-Innovation-Camp-by-CYL-2023/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/awards/Robotics-Innovation-Camp-by-CYL-2023/"/>
+    </url>
+    <url>
+        <loc>Noneawards/Robotics-Innovation-Camp-by-CYL/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneawards/Robotics-Innovation-Camp-by-CYL/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/awards/Robotics-Innovation-Camp-by-CYL/"/>
+    </url>
+    <url>
+        <loc>Noneawards/Shandong-Provincial-University-Contest-on-Intelligent-Robotic-Innovations-2022/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneawards/Shandong-Provincial-University-Contest-on-Intelligent-Robotic-Innovations-2022/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/awards/Shandong-Provincial-University-Contest-on-Intelligent-Robotic-Innovations-2022/"/>
+    </url>
+    <url>
+        <loc>Noneawards/Shandong-Provincial-University-Contest-on-Intelligent-Robotic-Innovations/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneawards/Shandong-Provincial-University-Contest-on-Intelligent-Robotic-Innovations/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/awards/Shandong-Provincial-University-Contest-on-Intelligent-Robotic-Innovations/"/>
     </url>
     <url>
         <loc>Nonecontest/CRAIC/</loc>
@@ -50,11 +134,32 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/contest/Robotics%20Innovation%20Camp%20by%20CYL/"/>
     </url>
     <url>
-        <loc>Noneothers/accept_news/</loc>
+        <loc>NonememberStyle/Competition_Chronicles/2023/</loc>
         <lastmod>2024-07-28</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneothers/accept_news/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/others/accept_news/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="NonememberStyle/Competition_Chronicles/2023/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/memberStyle/Competition_Chronicles/2023/"/>
+    </url>
+    <url>
+        <loc>NonememberStyle/Competition_Chronicles/2024/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="NonememberStyle/Competition_Chronicles/2024/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/memberStyle/Competition_Chronicles/2024/"/>
+    </url>
+    <url>
+        <loc>NonememberStyle/Daily_Echos/2023/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="NonememberStyle/Daily_Echos/2023/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/memberStyle/Daily_Echos/2023/"/>
+    </url>
+    <url>
+        <loc>NonememberStyle/Daily_Echos/2024/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="NonememberStyle/Daily_Echos/2024/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/memberStyle/Daily_Echos/2024/"/>
     </url>
     <url>
         <loc>Noneothers/htc/</loc>
@@ -302,41 +407,6 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/theory/Robot_Kinematics/Robot_Kinematics_Introduction/"/>
     </url>
     <url>
-        <loc>Nonesocial/social/</loc>
-        <lastmod>2024-07-28</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonesocial/social/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/social/social/"/>
-    </url>
-    <url>
-        <loc>Nonesocial/Competition_Chronicles/2023/</loc>
-        <lastmod>2024-07-28</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonesocial/Competition_Chronicles/2023/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/social/Competition_Chronicles/2023/"/>
-    </url>
-    <url>
-        <loc>Nonesocial/Competition_Chronicles/2024/</loc>
-        <lastmod>2024-07-28</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonesocial/Competition_Chronicles/2024/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/social/Competition_Chronicles/2024/"/>
-    </url>
-    <url>
-        <loc>Nonesocial/Daily_Echos/2023/</loc>
-        <lastmod>2024-07-28</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonesocial/Daily_Echos/2023/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/social/Daily_Echos/2023/"/>
-    </url>
-    <url>
-        <loc>Nonesocial/Daily_Echos/2024/</loc>
-        <lastmod>2024-07-28</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonesocial/Daily_Echos/2024/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/social/Daily_Echos/2024/"/>
-    </url>
-    <url>
         <loc>Noneen/</loc>
         <lastmod>2024-07-28</lastmod>
         <changefreq>daily</changefreq>
@@ -344,11 +414,95 @@
         <xhtml:link rel="alternate" hreflang="zh" href="None"/>
     </url>
     <url>
-        <loc>Noneen/awards/awards/</loc>
+        <loc>Noneen/awards/CRAIC-2023/</loc>
         <lastmod>2024-07-28</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/awards/awards/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneawards/awards/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/awards/CRAIC-2023/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneawards/CRAIC-2023/"/>
+    </url>
+    <url>
+        <loc>Noneen/awards/CRAIC-2024/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/awards/CRAIC-2024/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneawards/CRAIC-2024/"/>
+    </url>
+    <url>
+        <loc>Noneen/awards/CRAIC/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/awards/CRAIC/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneawards/CRAIC/"/>
+    </url>
+    <url>
+        <loc>Noneen/awards/IYAIC-2023/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/awards/IYAIC-2023/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneawards/IYAIC-2023/"/>
+    </url>
+    <url>
+        <loc>Noneen/awards/IYAIC/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/awards/IYAIC/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneawards/IYAIC/"/>
+    </url>
+    <url>
+        <loc>Noneen/awards/RoboCup-China-Open-2024/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/awards/RoboCup-China-Open-2024/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneawards/RoboCup-China-Open-2024/"/>
+    </url>
+    <url>
+        <loc>Noneen/awards/RoboCup-China-Open/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/awards/RoboCup-China-Open/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneawards/RoboCup-China-Open/"/>
+    </url>
+    <url>
+        <loc>Noneen/awards/Robocode-2023/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/awards/Robocode-2023/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneawards/Robocode-2023/"/>
+    </url>
+    <url>
+        <loc>Noneen/awards/Robocode/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/awards/Robocode/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneawards/Robocode/"/>
+    </url>
+    <url>
+        <loc>Noneen/awards/Robotics-Innovation-Camp-by-CYL-2023/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/awards/Robotics-Innovation-Camp-by-CYL-2023/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneawards/Robotics-Innovation-Camp-by-CYL-2023/"/>
+    </url>
+    <url>
+        <loc>Noneen/awards/Robotics-Innovation-Camp-by-CYL/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/awards/Robotics-Innovation-Camp-by-CYL/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneawards/Robotics-Innovation-Camp-by-CYL/"/>
+    </url>
+    <url>
+        <loc>Noneen/awards/Shandong-Provincial-University-Contest-on-Intelligent-Robotic-Innovations-2022/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/awards/Shandong-Provincial-University-Contest-on-Intelligent-Robotic-Innovations-2022/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneawards/Shandong-Provincial-University-Contest-on-Intelligent-Robotic-Innovations-2022/"/>
+    </url>
+    <url>
+        <loc>Noneen/awards/Shandong-Provincial-University-Contest-on-Intelligent-Robotic-Innovations/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/awards/Shandong-Provincial-University-Contest-on-Intelligent-Robotic-Innovations/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneawards/Shandong-Provincial-University-Contest-on-Intelligent-Robotic-Innovations/"/>
     </url>
     <url>
         <loc>Noneen/contest/CRAIC/</loc>
@@ -386,11 +540,32 @@
         <xhtml:link rel="alternate" hreflang="zh" href="Nonecontest/Robotics%20Innovation%20Camp%20by%20CYL/"/>
     </url>
     <url>
-        <loc>Noneen/others/accept_news/</loc>
+        <loc>Noneen/memberStyle/Competition_Chronicles/2023/</loc>
         <lastmod>2024-07-28</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/others/accept_news/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneothers/accept_news/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/memberStyle/Competition_Chronicles/2023/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="NonememberStyle/Competition_Chronicles/2023/"/>
+    </url>
+    <url>
+        <loc>Noneen/memberStyle/Competition_Chronicles/2024/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/memberStyle/Competition_Chronicles/2024/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="NonememberStyle/Competition_Chronicles/2024/"/>
+    </url>
+    <url>
+        <loc>Noneen/memberStyle/Daily_Echos/2023/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/memberStyle/Daily_Echos/2023/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="NonememberStyle/Daily_Echos/2023/"/>
+    </url>
+    <url>
+        <loc>Noneen/memberStyle/Daily_Echos/2024/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/memberStyle/Daily_Echos/2024/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="NonememberStyle/Daily_Echos/2024/"/>
     </url>
     <url>
         <loc>Noneen/others/htc/</loc>
@@ -636,40 +811,5 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/theory/Robot_Kinematics/Robot_Kinematics_Introduction/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/theory/Robot_Kinematics/Robot_Kinematics_Introduction/"/>
-    </url>
-    <url>
-        <loc>Noneen/social/social/</loc>
-        <lastmod>2024-07-28</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/social/social/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonesocial/social/"/>
-    </url>
-    <url>
-        <loc>Noneen/social/Competition_Chronicles/2023/</loc>
-        <lastmod>2024-07-28</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/social/Competition_Chronicles/2023/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonesocial/Competition_Chronicles/2023/"/>
-    </url>
-    <url>
-        <loc>Noneen/social/Competition_Chronicles/2024/</loc>
-        <lastmod>2024-07-28</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/social/Competition_Chronicles/2024/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonesocial/Competition_Chronicles/2024/"/>
-    </url>
-    <url>
-        <loc>Noneen/social/Daily_Echos/2023/</loc>
-        <lastmod>2024-07-28</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/social/Daily_Echos/2023/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonesocial/Daily_Echos/2023/"/>
-    </url>
-    <url>
-        <loc>Noneen/social/Daily_Echos/2024/</loc>
-        <lastmod>2024-07-28</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/social/Daily_Echos/2024/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonesocial/Daily_Echos/2024/"/>
     </url>
 </urlset>
