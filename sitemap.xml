@@ -162,6 +162,13 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/memberStyle/Daily_Echos/2024/"/>
     </url>
     <url>
+        <loc>Noneothers/accept_news/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneothers/accept_news/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/others/accept_news/"/>
+    </url>
+    <url>
         <loc>Noneothers/htc/</loc>
         <lastmod>2024-07-28</lastmod>
         <changefreq>daily</changefreq>
@@ -566,6 +573,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/memberStyle/Daily_Echos/2024/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="NonememberStyle/Daily_Echos/2024/"/>
+    </url>
+    <url>
+        <loc>Noneen/others/accept_news/</loc>
+        <lastmod>2024-07-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/others/accept_news/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneothers/accept_news/"/>
     </url>
     <url>
         <loc>Noneen/others/htc/</loc>
