@@ -197,6 +197,34 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/others/technical/"/>
     </url>
     <url>
+        <loc>Noneplan/training_plan_1/</loc>
+        <lastmod>2024-08-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneplan/training_plan_1/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/plan/training_plan_1/"/>
+    </url>
+    <url>
+        <loc>Noneplan/training_plan_2/</loc>
+        <lastmod>2024-08-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneplan/training_plan_2/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/plan/training_plan_2/"/>
+    </url>
+    <url>
+        <loc>Noneplan/training_plan_3/</loc>
+        <lastmod>2024-08-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneplan/training_plan_3/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/plan/training_plan_3/"/>
+    </url>
+    <url>
+        <loc>Noneplan/training_plan_4/</loc>
+        <lastmod>2024-08-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneplan/training_plan_4/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/plan/training_plan_4/"/>
+    </url>
+    <url>
         <loc>Noneresource/NAO/APIs/NAOqi_Audio/</loc>
         <lastmod>2024-08-26</lastmod>
         <changefreq>daily</changefreq>
@@ -1098,6 +1126,34 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/others/technical/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Noneothers/technical/"/>
+    </url>
+    <url>
+        <loc>Noneen/plan/training_plan_1/</loc>
+        <lastmod>2024-08-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/plan/training_plan_1/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneplan/training_plan_1/"/>
+    </url>
+    <url>
+        <loc>Noneen/plan/training_plan_2/</loc>
+        <lastmod>2024-08-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/plan/training_plan_2/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneplan/training_plan_2/"/>
+    </url>
+    <url>
+        <loc>Noneen/plan/training_plan_3/</loc>
+        <lastmod>2024-08-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/plan/training_plan_3/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneplan/training_plan_3/"/>
+    </url>
+    <url>
+        <loc>Noneen/plan/training_plan_4/</loc>
+        <lastmod>2024-08-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/plan/training_plan_4/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneplan/training_plan_4/"/>
     </url>
     <url>
         <loc>Noneen/resource/NAO/APIs/NAOqi_Audio/</loc>
