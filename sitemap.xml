@@ -113,11 +113,11 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/contest/IYAIC/"/>
     </url>
     <url>
-        <loc>Nonecontest/RoboCup-China-Open/</loc>
+        <loc>Nonecontest/RoboCup%20China%20Open/</loc>
         <lastmod>2024-08-26</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonecontest/RoboCup-China-Open/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/contest/RoboCup-China-Open/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonecontest/RoboCup%20China%20Open/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/contest/RoboCup%20China%20Open/"/>
     </url>
     <url>
         <loc>Nonecontest/RoboCup/</loc>
@@ -127,11 +127,11 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/contest/RoboCup/"/>
     </url>
     <url>
-        <loc>Nonecontest/Robotics-Innovation-Camp-by-CYL/</loc>
+        <loc>Nonecontest/Robotics%20Innovation%20Camp%20by%20CYL/</loc>
         <lastmod>2024-08-26</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonecontest/Robotics-Innovation-Camp-by-CYL/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/contest/Robotics-Innovation-Camp-by-CYL/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonecontest/Robotics%20Innovation%20Camp%20by%20CYL/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/contest/Robotics%20Innovation%20Camp%20by%20CYL/"/>
     </url>
     <url>
         <loc>NonememberStyle/Competition_Chronicles/2023/</loc>
@@ -162,11 +162,11 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/memberStyle/Daily_Echos/2024/"/>
     </url>
     <url>
-        <loc>Noneothers/Sweepstakes/</loc>
+        <loc>Noneothers/accept_news/</loc>
         <lastmod>2024-08-26</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneothers/Sweepstakes/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/others/Sweepstakes/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneothers/accept_news/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/others/accept_news/"/>
     </url>
     <url>
         <loc>Noneothers/htc/</loc>
@@ -181,20 +181,6 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Noneothers/interesting/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/others/interesting/"/>
-    </url>
-    <url>
-        <loc>Noneothers/publicity/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneothers/publicity/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/others/publicity/"/>
-    </url>
-    <url>
-        <loc>Noneothers/technical/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneothers/technical/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/others/technical/"/>
     </url>
     <url>
         <loc>Noneplan/training_plan_1/</loc>
@@ -400,279 +386,6 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/Git_Introduction/"/>
     </url>
     <url>
-        <loc>Noneresource/software/Git/a1-what-is-git/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a1-what-is-git/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a1-what-is-git/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/a2-getting-started-with-git/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a2-getting-started-with-git/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a2-getting-started-with-git/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/a3-creating-your-first-git-repository/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a3-creating-your-first-git-repository/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a3-creating-your-first-git-repository/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/a4-how-to-restore-older-file-versions-in-git/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a4-how-to-restore-older-file-versions-in-git/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a4-how-to-restore-older-file-versions-in-git/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/a5-3-graphical-tools-for-git/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a5-3-graphical-tools-for-git/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a5-3-graphical-tools-for-git/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/a6-how-to-build-your-own-git-server/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a6-how-to-build-your-own-git-server/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a6-how-to-build-your-own-git-server/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/a7-how-to-manage-binary-blobs-with-git/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a7-how-to-manage-binary-blobs-with-git/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a7-how-to-manage-binary-blobs-with-git/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/b1-learn-git-3-commands-to-level-up-your-skill/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b1-learn-git-3-commands-to-level-up-your-skill/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b1-learn-git-3-commands-to-level-up-your-skill/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/b2-git-rebase-tutorial-going-back-in-time-with-git-rebase/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b2-git-rebase-tutorial-going-back-in-time-with-git-rebase/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b2-git-rebase-tutorial-going-back-in-time-with-git-rebase/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/b3-a-guide-to-git-branching/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b3-a-guide-to-git-branching/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b3-a-guide-to-git-branching/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/b6-10-resources-to-boost-your-git-skills/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b6-10-resources-to-boost-your-git-skills/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b6-10-resources-to-boost-your-git-skills/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/b8-how-git-cherry-pick-and-revert-use-3-way-merge/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b8-how-git-cherry-pick-and-revert-use-3-way-merge/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b8-how-git-cherry-pick-and-revert-use-3-way-merge/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/b8-how-to-rename-a-branch-delete-a-branch-and-find-the-author-of-a-branch-in-git/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b8-how-to-rename-a-branch-delete-a-branch-and-find-the-author-of-a-branch-in-git/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b8-how-to-rename-a-branch-delete-a-branch-and-find-the-author-of-a-branch-in-git/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/c1-getting-started-with-git-terminology/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/c1-getting-started-with-git-terminology/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/c1-getting-started-with-git-terminology/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/c2-confusing-git-terminology/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/c2-confusing-git-terminology/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/c2-confusing-git-terminology/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/c3-tips-to-push-your-git-skills-to-the-next-level/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/c3-tips-to-push-your-git-skills-to-the-next-level/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/c3-tips-to-push-your-git-skills-to-the-next-level/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/c4-complete-beginners-to-pro-guide-for-git-commands/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/c4-complete-beginners-to-pro-guide-for-git-commands/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/c4-complete-beginners-to-pro-guide-for-git-commands/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/c5-6-best-practices-for-managing-git-repos/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/c5-6-best-practices-for-managing-git-repos/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/c5-6-best-practices-for-managing-git-repos/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/c6-6-best-practices-for-teams-using-git/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/c6-6-best-practices-for-teams-using-git/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/c6-6-best-practices-for-teams-using-git/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/c7-in-a-git-repository-where-do-your-files-live/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/c7-in-a-git-repository-where-do-your-files-live/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/c7-in-a-git-repository-where-do-your-files-live/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/d1-getting-started-with-github/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d1-getting-started-with-github/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d1-getting-started-with-github/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/d2-a-step-by-step-guide-to-git/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d2-a-step-by-step-guide-to-git/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d2-a-step-by-step-guide-to-git/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/d3-installing-and-using-git-and-github-on-ubuntu-linux-a-beginner-s-guide/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d3-installing-and-using-git-and-github-on-ubuntu-linux-a-beginner-s-guide/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d3-installing-and-using-git-and-github-on-ubuntu-linux-a-beginner-s-guide/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/d4-how-to-clone-modify-add-and-delete-files-in-git/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d4-how-to-clone-modify-add-and-delete-files-in-git/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d4-how-to-clone-modify-add-and-delete-files-in-git/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/d5-12-cool-things-you-can-do-with-github/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d5-12-cool-things-you-can-do-with-github/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d5-12-cool-things-you-can-do-with-github/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/d5-reveal-your-source-code-with-jinja2-and-git/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d5-reveal-your-source-code-with-jinja2-and-git/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d5-reveal-your-source-code-with-jinja2-and-git/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/d6-dns-infrastructure-at-github/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d6-dns-infrastructure-at-github/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d6-dns-infrastructure-at-github/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/d7-6-places-to-host-your-git-repository/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d7-6-places-to-host-your-git-repository/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d7-6-places-to-host-your-git-repository/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/d8-run-a-server-with-git/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d8-run-a-server-with-git/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d8-run-a-server-with-git/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/e1-git-cheat-sheet/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/e1-git-cheat-sheet/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/e1-git-cheat-sheet/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/e2-github-cheat-sheet/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/e2-github-cheat-sheet/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/e2-github-cheat-sheet/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Git/e3-github-contribution/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/e3-github-contribution/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/e3-github-contribution/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/LaTeX/01-LaTeX-Introduction/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/01-LaTeX-Introduction/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/01-LaTeX-Introduction/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/LaTeX/02-LaTeX-setup/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/02-LaTeX-setup/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/02-LaTeX-setup/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/LaTeX/03-LaTex-text/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/03-LaTex-text/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/03-LaTex-text/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/LaTeX/04-Latex-formula-list/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/04-Latex-formula-list/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/04-Latex-formula-list/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/LaTeX/04-Latex-formula/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/04-Latex-formula/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/04-Latex-formula/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/LaTeX/05-LaTeX-doc/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/05-LaTeX-doc/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/05-LaTeX-doc/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/LaTeX/06-LaTeX-style/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/06-LaTeX-style/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/06-LaTeX-style/"/>
-    </url>
-    <url>
         <loc>Noneresource/software/LaTeX/LaTeX_Introduction/</loc>
         <lastmod>2024-08-26</lastmod>
         <changefreq>daily</changefreq>
@@ -680,214 +393,11 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/LaTeX_Introduction/"/>
     </url>
     <url>
-        <loc>Noneresource/software/Linux/10-useful-linux-command-line-tricks-for-newbies/</loc>
+        <loc>Noneresource/software/Linux/Linux_Introduction/</loc>
         <lastmod>2024-08-26</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/10-useful-linux-command-line-tricks-for-newbies/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/10-useful-linux-command-line-tricks-for-newbies/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Linux/11-Linux-Terminal-Commands-That-Will-Rock-Your-World/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/11-Linux-Terminal-Commands-That-Will-Rock-Your-World/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/11-Linux-Terminal-Commands-That-Will-Rock-Your-World/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Linux/20240330-tailspin/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/20240330-tailspin/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/20240330-tailspin/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Linux/20240403-linux-alias/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/20240403-linux-alias/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/20240403-linux-alias/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Linux/20240724-effectively-use-history-command-in-linux/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/20240724-effectively-use-history-command-in-linux/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/20240724-effectively-use-history-command-in-linux/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Linux/20240730-copy-files-between-remote-systems-in-the-linux-command-line/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/20240730-copy-files-between-remote-systems-in-the-linux-command-line/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/20240730-copy-files-between-remote-systems-in-the-linux-command-line/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Linux/bash-basics-series-0-introduction-to-bash-scripting/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-0-introduction-to-bash-scripting/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-0-introduction-to-bash-scripting/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Linux/bash-basics-series-1-create-and-run-your-first-bash-shell-script/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-1-create-and-run-your-first-bash-shell-script/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-1-create-and-run-your-first-bash-shell-script/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Linux/bash-basics-series-2-using-variables-in-bash/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-2-using-variables-in-bash/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-2-using-variables-in-bash/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Linux/bash-basics-series-3-passing-arguments-and-accepting-user-inputs/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-3-passing-arguments-and-accepting-user-inputs/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-3-passing-arguments-and-accepting-user-inputs/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Linux/bash-basics-series-4-arithmetic-operations/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-4-arithmetic-operations/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-4-arithmetic-operations/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Linux/bash-basics-series-5-using-arrays-in-bash/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-5-using-arrays-in-bash/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-5-using-arrays-in-bash/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Linux/bash-basics-series-6-handling-string-operations/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-6-handling-string-operations/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-6-handling-string-operations/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Linux/bash-basics-series-7-if-else-statement/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-7-if-else-statement/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-7-if-else-statement/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Linux/bash-basics-series-8-for-while-and-until-Loops/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-8-for-while-and-until-Loops/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-8-for-while-and-until-Loops/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Linux/bash-basics-series-9-functions-in-bash/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-9-functions-in-bash/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-9-functions-in-bash/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Linux/chapter-1-change-directories/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/chapter-1-change-directories/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/chapter-1-change-directories/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Linux/chapter-10-linux-command-help/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/chapter-10-linux-command-help/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/chapter-10-linux-command-help/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Linux/chapter-2-make-directories/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/chapter-2-make-directories/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/chapter-2-make-directories/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Linux/chapter-3-list-directory-content/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/chapter-3-list-directory-content/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/chapter-3-list-directory-content/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Linux/chapter-4-create-files/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/chapter-4-create-files/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/chapter-4-create-files/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Linux/chapter-5-view-file-contents/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/chapter-5-view-file-contents/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/chapter-5-view-file-contents/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Linux/chapter-6-delete-files-folders-linux/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/chapter-6-delete-files-folders-linux/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/chapter-6-delete-files-folders-linux/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Linux/chapter-7-copy-files-directory-linux/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/chapter-7-copy-files-directory-linux/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/chapter-7-copy-files-directory-linux/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Linux/chapter-8-move-files-linux/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/chapter-8-move-files-linux/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/chapter-8-move-files-linux/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Linux/chapter-9-edit-files-linux/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/chapter-9-edit-files-linux/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/chapter-9-edit-files-linux/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Linux/getting-started-with-linux-terminal/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/getting-started-with-linux-terminal/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/getting-started-with-linux-terminal/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Linux/linux-terminal-shortcuts/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/linux-terminal-shortcuts/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/linux-terminal-shortcuts/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Linux/shell-bash-cmd-powershell/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/shell-bash-cmd-powershell/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/shell-bash-cmd-powershell/"/>
-    </url>
-    <url>
-        <loc>Noneresource/software/Linux/zsh-beautify/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/zsh-beautify/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/zsh-beautify/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/Linux_Introduction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/Linux_Introduction/"/>
     </url>
     <url>
         <loc>Noneresource/software/Misc/Misc/</loc>
@@ -1044,11 +554,11 @@
         <xhtml:link rel="alternate" hreflang="zh" href="Nonecontest/IYAIC/"/>
     </url>
     <url>
-        <loc>Noneen/contest/RoboCup-China-Open/</loc>
+        <loc>Noneen/contest/RoboCup%20China%20Open/</loc>
         <lastmod>2024-08-26</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/contest/RoboCup-China-Open/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonecontest/RoboCup-China-Open/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/contest/RoboCup%20China%20Open/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonecontest/RoboCup%20China%20Open/"/>
     </url>
     <url>
         <loc>Noneen/contest/RoboCup/</loc>
@@ -1058,11 +568,11 @@
         <xhtml:link rel="alternate" hreflang="zh" href="Nonecontest/RoboCup/"/>
     </url>
     <url>
-        <loc>Noneen/contest/Robotics-Innovation-Camp-by-CYL/</loc>
+        <loc>Noneen/contest/Robotics%20Innovation%20Camp%20by%20CYL/</loc>
         <lastmod>2024-08-26</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/contest/Robotics-Innovation-Camp-by-CYL/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonecontest/Robotics-Innovation-Camp-by-CYL/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/contest/Robotics%20Innovation%20Camp%20by%20CYL/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonecontest/Robotics%20Innovation%20Camp%20by%20CYL/"/>
     </url>
     <url>
         <loc>Noneen/memberStyle/Competition_Chronicles/2023/</loc>
@@ -1093,11 +603,11 @@
         <xhtml:link rel="alternate" hreflang="zh" href="NonememberStyle/Daily_Echos/2024/"/>
     </url>
     <url>
-        <loc>Noneen/others/Sweepstakes/</loc>
+        <loc>Noneen/others/accept_news/</loc>
         <lastmod>2024-08-26</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/others/Sweepstakes/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneothers/Sweepstakes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/others/accept_news/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneothers/accept_news/"/>
     </url>
     <url>
         <loc>Noneen/others/htc/</loc>
@@ -1112,20 +622,6 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/others/interesting/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Noneothers/interesting/"/>
-    </url>
-    <url>
-        <loc>Noneen/others/publicity/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/others/publicity/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneothers/publicity/"/>
-    </url>
-    <url>
-        <loc>Noneen/others/technical/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/others/technical/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneothers/technical/"/>
     </url>
     <url>
         <loc>Noneen/plan/training_plan_1/</loc>
@@ -1331,279 +827,6 @@
         <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/Git_Introduction/"/>
     </url>
     <url>
-        <loc>Noneen/resource/software/Git/a1-what-is-git/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a1-what-is-git/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a1-what-is-git/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/a2-getting-started-with-git/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a2-getting-started-with-git/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a2-getting-started-with-git/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/a3-creating-your-first-git-repository/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a3-creating-your-first-git-repository/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a3-creating-your-first-git-repository/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/a4-how-to-restore-older-file-versions-in-git/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a4-how-to-restore-older-file-versions-in-git/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a4-how-to-restore-older-file-versions-in-git/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/a5-3-graphical-tools-for-git/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a5-3-graphical-tools-for-git/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a5-3-graphical-tools-for-git/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/a6-how-to-build-your-own-git-server/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a6-how-to-build-your-own-git-server/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a6-how-to-build-your-own-git-server/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/a7-how-to-manage-binary-blobs-with-git/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a7-how-to-manage-binary-blobs-with-git/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a7-how-to-manage-binary-blobs-with-git/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/b1-learn-git-3-commands-to-level-up-your-skill/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b1-learn-git-3-commands-to-level-up-your-skill/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b1-learn-git-3-commands-to-level-up-your-skill/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/b2-git-rebase-tutorial-going-back-in-time-with-git-rebase/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b2-git-rebase-tutorial-going-back-in-time-with-git-rebase/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b2-git-rebase-tutorial-going-back-in-time-with-git-rebase/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/b3-a-guide-to-git-branching/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b3-a-guide-to-git-branching/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b3-a-guide-to-git-branching/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/b6-10-resources-to-boost-your-git-skills/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b6-10-resources-to-boost-your-git-skills/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b6-10-resources-to-boost-your-git-skills/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/b8-how-git-cherry-pick-and-revert-use-3-way-merge/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b8-how-git-cherry-pick-and-revert-use-3-way-merge/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b8-how-git-cherry-pick-and-revert-use-3-way-merge/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/b8-how-to-rename-a-branch-delete-a-branch-and-find-the-author-of-a-branch-in-git/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b8-how-to-rename-a-branch-delete-a-branch-and-find-the-author-of-a-branch-in-git/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b8-how-to-rename-a-branch-delete-a-branch-and-find-the-author-of-a-branch-in-git/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/c1-getting-started-with-git-terminology/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/c1-getting-started-with-git-terminology/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/c1-getting-started-with-git-terminology/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/c2-confusing-git-terminology/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/c2-confusing-git-terminology/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/c2-confusing-git-terminology/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/c3-tips-to-push-your-git-skills-to-the-next-level/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/c3-tips-to-push-your-git-skills-to-the-next-level/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/c3-tips-to-push-your-git-skills-to-the-next-level/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/c4-complete-beginners-to-pro-guide-for-git-commands/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/c4-complete-beginners-to-pro-guide-for-git-commands/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/c4-complete-beginners-to-pro-guide-for-git-commands/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/c5-6-best-practices-for-managing-git-repos/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/c5-6-best-practices-for-managing-git-repos/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/c5-6-best-practices-for-managing-git-repos/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/c6-6-best-practices-for-teams-using-git/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/c6-6-best-practices-for-teams-using-git/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/c6-6-best-practices-for-teams-using-git/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/c7-in-a-git-repository-where-do-your-files-live/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/c7-in-a-git-repository-where-do-your-files-live/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/c7-in-a-git-repository-where-do-your-files-live/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/d1-getting-started-with-github/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d1-getting-started-with-github/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d1-getting-started-with-github/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/d2-a-step-by-step-guide-to-git/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d2-a-step-by-step-guide-to-git/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d2-a-step-by-step-guide-to-git/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/d3-installing-and-using-git-and-github-on-ubuntu-linux-a-beginner-s-guide/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d3-installing-and-using-git-and-github-on-ubuntu-linux-a-beginner-s-guide/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d3-installing-and-using-git-and-github-on-ubuntu-linux-a-beginner-s-guide/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/d4-how-to-clone-modify-add-and-delete-files-in-git/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d4-how-to-clone-modify-add-and-delete-files-in-git/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d4-how-to-clone-modify-add-and-delete-files-in-git/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/d5-12-cool-things-you-can-do-with-github/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d5-12-cool-things-you-can-do-with-github/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d5-12-cool-things-you-can-do-with-github/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/d5-reveal-your-source-code-with-jinja2-and-git/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d5-reveal-your-source-code-with-jinja2-and-git/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d5-reveal-your-source-code-with-jinja2-and-git/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/d6-dns-infrastructure-at-github/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d6-dns-infrastructure-at-github/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d6-dns-infrastructure-at-github/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/d7-6-places-to-host-your-git-repository/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d7-6-places-to-host-your-git-repository/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d7-6-places-to-host-your-git-repository/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/d8-run-a-server-with-git/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d8-run-a-server-with-git/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d8-run-a-server-with-git/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/e1-git-cheat-sheet/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/e1-git-cheat-sheet/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/e1-git-cheat-sheet/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/e2-github-cheat-sheet/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/e2-github-cheat-sheet/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/e2-github-cheat-sheet/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Git/e3-github-contribution/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/e3-github-contribution/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/e3-github-contribution/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/LaTeX/01-LaTeX-Introduction/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/01-LaTeX-Introduction/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/01-LaTeX-Introduction/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/LaTeX/02-LaTeX-setup/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/02-LaTeX-setup/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/02-LaTeX-setup/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/LaTeX/03-LaTex-text/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/03-LaTex-text/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/03-LaTex-text/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/LaTeX/04-Latex-formula-list/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/04-Latex-formula-list/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/04-Latex-formula-list/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/LaTeX/04-Latex-formula/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/04-Latex-formula/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/04-Latex-formula/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/LaTeX/05-LaTeX-doc/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/05-LaTeX-doc/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/05-LaTeX-doc/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/LaTeX/06-LaTeX-style/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/06-LaTeX-style/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/06-LaTeX-style/"/>
-    </url>
-    <url>
         <loc>Noneen/resource/software/LaTeX/LaTeX_Introduction/</loc>
         <lastmod>2024-08-26</lastmod>
         <changefreq>daily</changefreq>
@@ -1611,214 +834,11 @@
         <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/LaTeX_Introduction/"/>
     </url>
     <url>
-        <loc>Noneen/resource/software/Linux/10-useful-linux-command-line-tricks-for-newbies/</loc>
+        <loc>Noneen/resource/software/Linux/Linux_Introduction/</loc>
         <lastmod>2024-08-26</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/10-useful-linux-command-line-tricks-for-newbies/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/10-useful-linux-command-line-tricks-for-newbies/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Linux/11-Linux-Terminal-Commands-That-Will-Rock-Your-World/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/11-Linux-Terminal-Commands-That-Will-Rock-Your-World/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/11-Linux-Terminal-Commands-That-Will-Rock-Your-World/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Linux/20240330-tailspin/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/20240330-tailspin/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/20240330-tailspin/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Linux/20240403-linux-alias/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/20240403-linux-alias/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/20240403-linux-alias/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Linux/20240724-effectively-use-history-command-in-linux/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/20240724-effectively-use-history-command-in-linux/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/20240724-effectively-use-history-command-in-linux/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Linux/20240730-copy-files-between-remote-systems-in-the-linux-command-line/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/20240730-copy-files-between-remote-systems-in-the-linux-command-line/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/20240730-copy-files-between-remote-systems-in-the-linux-command-line/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Linux/bash-basics-series-0-introduction-to-bash-scripting/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-0-introduction-to-bash-scripting/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-0-introduction-to-bash-scripting/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Linux/bash-basics-series-1-create-and-run-your-first-bash-shell-script/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-1-create-and-run-your-first-bash-shell-script/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-1-create-and-run-your-first-bash-shell-script/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Linux/bash-basics-series-2-using-variables-in-bash/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-2-using-variables-in-bash/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-2-using-variables-in-bash/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Linux/bash-basics-series-3-passing-arguments-and-accepting-user-inputs/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-3-passing-arguments-and-accepting-user-inputs/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-3-passing-arguments-and-accepting-user-inputs/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Linux/bash-basics-series-4-arithmetic-operations/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-4-arithmetic-operations/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-4-arithmetic-operations/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Linux/bash-basics-series-5-using-arrays-in-bash/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-5-using-arrays-in-bash/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-5-using-arrays-in-bash/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Linux/bash-basics-series-6-handling-string-operations/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-6-handling-string-operations/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-6-handling-string-operations/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Linux/bash-basics-series-7-if-else-statement/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-7-if-else-statement/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-7-if-else-statement/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Linux/bash-basics-series-8-for-while-and-until-Loops/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-8-for-while-and-until-Loops/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-8-for-while-and-until-Loops/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Linux/bash-basics-series-9-functions-in-bash/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-9-functions-in-bash/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-9-functions-in-bash/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Linux/chapter-1-change-directories/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/chapter-1-change-directories/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/chapter-1-change-directories/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Linux/chapter-10-linux-command-help/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/chapter-10-linux-command-help/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/chapter-10-linux-command-help/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Linux/chapter-2-make-directories/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/chapter-2-make-directories/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/chapter-2-make-directories/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Linux/chapter-3-list-directory-content/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/chapter-3-list-directory-content/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/chapter-3-list-directory-content/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Linux/chapter-4-create-files/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/chapter-4-create-files/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/chapter-4-create-files/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Linux/chapter-5-view-file-contents/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/chapter-5-view-file-contents/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/chapter-5-view-file-contents/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Linux/chapter-6-delete-files-folders-linux/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/chapter-6-delete-files-folders-linux/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/chapter-6-delete-files-folders-linux/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Linux/chapter-7-copy-files-directory-linux/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/chapter-7-copy-files-directory-linux/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/chapter-7-copy-files-directory-linux/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Linux/chapter-8-move-files-linux/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/chapter-8-move-files-linux/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/chapter-8-move-files-linux/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Linux/chapter-9-edit-files-linux/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/chapter-9-edit-files-linux/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/chapter-9-edit-files-linux/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Linux/getting-started-with-linux-terminal/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/getting-started-with-linux-terminal/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/getting-started-with-linux-terminal/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Linux/linux-terminal-shortcuts/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/linux-terminal-shortcuts/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/linux-terminal-shortcuts/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Linux/shell-bash-cmd-powershell/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/shell-bash-cmd-powershell/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/shell-bash-cmd-powershell/"/>
-    </url>
-    <url>
-        <loc>Noneen/resource/software/Linux/zsh-beautify/</loc>
-        <lastmod>2024-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/zsh-beautify/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/zsh-beautify/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/Linux_Introduction/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/Linux_Introduction/"/>
     </url>
     <url>
         <loc>Noneen/resource/software/Misc/Misc/</loc>
