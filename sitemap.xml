@@ -162,6 +162,13 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/memberStyle/Daily_Echos/2024/"/>
     </url>
     <url>
+        <loc>Noneothers/2023test/</loc>
+        <lastmod>2024-09-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneothers/2023test/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/others/2023test/"/>
+    </url>
+    <url>
         <loc>Noneothers/Sweepstakes/</loc>
         <lastmod>2024-09-21</lastmod>
         <changefreq>daily</changefreq>
@@ -1483,6 +1490,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/memberStyle/Daily_Echos/2024/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="NonememberStyle/Daily_Echos/2024/"/>
+    </url>
+    <url>
+        <loc>Noneen/others/2023test/</loc>
+        <lastmod>2024-09-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/others/2023test/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneothers/2023test/"/>
     </url>
     <url>
         <loc>Noneen/others/Sweepstakes/</loc>
