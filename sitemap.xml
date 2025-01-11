@@ -274,6 +274,104 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/plan/training_plan_4/"/>
     </url>
     <url>
+        <loc>Noneproducts/CV/Face/Face/</loc>
+        <lastmod>2025-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneproducts/CV/Face/Face/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/products/CV/Face/Face/"/>
+    </url>
+    <url>
+        <loc>Noneproducts/CV/Object/Object/</loc>
+        <lastmod>2025-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneproducts/CV/Object/Object/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/products/CV/Object/Object/"/>
+    </url>
+    <url>
+        <loc>Noneproducts/Custom-made/Custom/</loc>
+        <lastmod>2025-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneproducts/Custom-made/Custom/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/products/Custom-made/Custom/"/>
+    </url>
+    <url>
+        <loc>Noneproducts/Data/Data/</loc>
+        <lastmod>2025-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneproducts/Data/Data/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/products/Data/Data/"/>
+    </url>
+    <url>
+        <loc>Noneproducts/LLM/Code/Code/</loc>
+        <lastmod>2025-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneproducts/LLM/Code/Code/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/products/LLM/Code/Code/"/>
+    </url>
+    <url>
+        <loc>Noneproducts/LLM/Document/Document/</loc>
+        <lastmod>2025-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneproducts/LLM/Document/Document/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/products/LLM/Document/Document/"/>
+    </url>
+    <url>
+        <loc>Noneproducts/LLM/Image/Image/</loc>
+        <lastmod>2025-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneproducts/LLM/Image/Image/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/products/LLM/Image/Image/"/>
+    </url>
+    <url>
+        <loc>Noneproducts/Teach/Algorithm/Algorithm/</loc>
+        <lastmod>2025-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneproducts/Teach/Algorithm/Algorithm/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/products/Teach/Algorithm/Algorithm/"/>
+    </url>
+    <url>
+        <loc>Noneproducts/Teach/Learn/Learn/</loc>
+        <lastmod>2025-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneproducts/Teach/Learn/Learn/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/products/Teach/Learn/Learn/"/>
+    </url>
+    <url>
+        <loc>Noneproducts/Teach/Network-security/Network/</loc>
+        <lastmod>2025-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneproducts/Teach/Network-security/Network/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/products/Teach/Network-security/Network/"/>
+    </url>
+    <url>
+        <loc>Noneproducts/Teach/robot/robot/</loc>
+        <lastmod>2025-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneproducts/Teach/robot/robot/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/products/Teach/robot/robot/"/>
+    </url>
+    <url>
+        <loc>Noneproducts/Virtual/People/People/</loc>
+        <lastmod>2025-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneproducts/Virtual/People/People/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/products/Virtual/People/People/"/>
+    </url>
+    <url>
+        <loc>Noneproducts/Virtual/Sound/Sound/</loc>
+        <lastmod>2025-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneproducts/Virtual/Sound/Sound/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/products/Virtual/Sound/Sound/"/>
+    </url>
+    <url>
+        <loc>Noneproducts/Web/Web/</loc>
+        <lastmod>2025-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneproducts/Web/Web/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/products/Web/Web/"/>
+    </url>
+    <url>
         <loc>Noneresource/NAO/APIs/NAOqi_Audio/</loc>
         <lastmod>2025-01-11</lastmod>
         <changefreq>daily</changefreq>
@@ -1651,6 +1749,104 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/plan/training_plan_4/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Noneplan/training_plan_4/"/>
+    </url>
+    <url>
+        <loc>Noneen/products/CV/Face/Face/</loc>
+        <lastmod>2025-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/products/CV/Face/Face/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneproducts/CV/Face/Face/"/>
+    </url>
+    <url>
+        <loc>Noneen/products/CV/Object/Object/</loc>
+        <lastmod>2025-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/products/CV/Object/Object/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneproducts/CV/Object/Object/"/>
+    </url>
+    <url>
+        <loc>Noneen/products/Custom-made/Custom/</loc>
+        <lastmod>2025-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/products/Custom-made/Custom/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneproducts/Custom-made/Custom/"/>
+    </url>
+    <url>
+        <loc>Noneen/products/Data/Data/</loc>
+        <lastmod>2025-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/products/Data/Data/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneproducts/Data/Data/"/>
+    </url>
+    <url>
+        <loc>Noneen/products/LLM/Code/Code/</loc>
+        <lastmod>2025-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/products/LLM/Code/Code/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneproducts/LLM/Code/Code/"/>
+    </url>
+    <url>
+        <loc>Noneen/products/LLM/Document/Document/</loc>
+        <lastmod>2025-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/products/LLM/Document/Document/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneproducts/LLM/Document/Document/"/>
+    </url>
+    <url>
+        <loc>Noneen/products/LLM/Image/Image/</loc>
+        <lastmod>2025-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/products/LLM/Image/Image/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneproducts/LLM/Image/Image/"/>
+    </url>
+    <url>
+        <loc>Noneen/products/Teach/Algorithm/Algorithm/</loc>
+        <lastmod>2025-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/products/Teach/Algorithm/Algorithm/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneproducts/Teach/Algorithm/Algorithm/"/>
+    </url>
+    <url>
+        <loc>Noneen/products/Teach/Learn/Learn/</loc>
+        <lastmod>2025-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/products/Teach/Learn/Learn/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneproducts/Teach/Learn/Learn/"/>
+    </url>
+    <url>
+        <loc>Noneen/products/Teach/Network-security/Network/</loc>
+        <lastmod>2025-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/products/Teach/Network-security/Network/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneproducts/Teach/Network-security/Network/"/>
+    </url>
+    <url>
+        <loc>Noneen/products/Teach/robot/robot/</loc>
+        <lastmod>2025-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/products/Teach/robot/robot/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneproducts/Teach/robot/robot/"/>
+    </url>
+    <url>
+        <loc>Noneen/products/Virtual/People/People/</loc>
+        <lastmod>2025-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/products/Virtual/People/People/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneproducts/Virtual/People/People/"/>
+    </url>
+    <url>
+        <loc>Noneen/products/Virtual/Sound/Sound/</loc>
+        <lastmod>2025-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/products/Virtual/Sound/Sound/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneproducts/Virtual/Sound/Sound/"/>
+    </url>
+    <url>
+        <loc>Noneen/products/Web/Web/</loc>
+        <lastmod>2025-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/products/Web/Web/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneproducts/Web/Web/"/>
     </url>
     <url>
         <loc>Noneen/resource/NAO/APIs/NAOqi_Audio/</loc>
